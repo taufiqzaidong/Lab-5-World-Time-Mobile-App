@@ -6,7 +6,6 @@ import 'package:lab5_app/pages/loading.dart';
 
 //Mohd Taufiq  bin Zaidong
 //195896
-//test
 
 void main() => runApp(MaterialApp(initialRoute: '/', routes: {
       '/': (context) => Loading(),
